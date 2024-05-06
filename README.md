@@ -1,6 +1,6 @@
 # TopCoin
 
-TopCoin is a comprehensive cryptocurrency information dashboard that allows users to view current prices, historical price charts, trading volumes, and rankings of various cryptocurrencies.
+TopCoin is a comprehensive cryptocurrency information dashashoard that allows users to view current prices, historical price charts, trading volumes, and rankings of various cryptocurrencies.
 
 ## Features
 
@@ -19,8 +19,12 @@ What things you need to install the software and how to install them:
 
 ```bash
 npm install npm@latest -g
+```
 
-git clone https://github.com/KaiYuanEng0513/TopCoingit
+```bash
+git clone https://github.com/KaiYuanEng0513/TopCoin.git
+```
 
 ```bash
 cd TopCoin
+```
